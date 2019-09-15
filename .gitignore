@@ -24,3 +24,5 @@ yarn-error.log*
 
 *.zip
 *.tar.gz
+
+package-lock.json
